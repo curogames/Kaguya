@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   chapterName: 
   dataList:
-  - {fileID: 11400000, guid: 5924a1a3111b9ee4a9a229a43bef6f7c, type: 2}
+  - {fileID: 11400000, guid: 96690885787486f469d75f66d0f022f4, type: 2}
   settingList:
   - rows:
     - rowIndex: 0
@@ -43,9 +43,73 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:Character
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u4E09\u8D8A\u8061"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u4E09\u8D8A\u8061.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u5C0F\u4F1D\u99AC\u3044\u306A\u3055"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u5C0F\u4F1D\u99AC\u3044\u306A\u3055.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u963F\u4F50\u5742\u8389\u7F85"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u963F\u4F50\u5742\u8389\u7F85.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u7F8E\u539F\u96DB\u83CA"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7F8E\u539F\u96DB\u83CA.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Kaguya/UsualDays.xls:Character
     type: 1
-    textLength: 154
+    textLength: 206
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -70,9 +134,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:Texture
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u6559\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 3
+      - 
+      - "\u6559\u5BA4.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Kaguya/UsualDays.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 123
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -83,7 +162,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:Particle
+    name: Assets/Kaguya/UsualDays.xls:Particle
     type: 1
     textLength: 13
     headerRow: 0
@@ -111,9 +190,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:Layer
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u30AD\u30E3\u30E9\u4E2D\u592E"
+      - Character
+      - 0
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u30AD\u30E3\u30E9\u5DE6"
+      - Character
+      - -500
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u30AD\u30E3\u30E9\u53F3"
+      - Character
+      - 500
+      - 0
+      - 190
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    name: Assets/Kaguya/UsualDays.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 169
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -137,7 +249,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:EyeBlink
+    name: Assets/Kaguya/UsualDays.xls:EyeBlink
     type: 1
     textLength: 112
     headerRow: 0
@@ -163,7 +275,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:LipSynch
+    name: Assets/Kaguya/UsualDays.xls:LipSynch
     type: 1
     textLength: 106
     headerRow: 0
@@ -259,7 +371,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:Animation
+    name: Assets/Kaguya/UsualDays.xls:Animation
     type: 1
     textLength: 93
     headerRow: 0
@@ -276,7 +388,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:Sound
+    name: Assets/Kaguya/UsualDays.xls:Sound
     type: 1
     textLength: 37
     headerRow: 0
@@ -291,7 +403,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:Param
+    name: Assets/Kaguya/UsualDays.xls:Param
     type: 1
     textLength: 22
     headerRow: 0
@@ -317,7 +429,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:ParamTbl{}
+    name: Assets/Kaguya/UsualDays.xls:ParamTbl{}
     type: 1
     textLength: 16
     headerRow: 0
@@ -331,7 +443,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:SceneGallery
+    name: Assets/Kaguya/UsualDays.xls:SceneGallery
     type: 1
     textLength: 27
     headerRow: 0
@@ -343,7 +455,7 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    name: Assets/Kaguya/Kaguya.xls:Localize
+    name: Assets/Kaguya/UsualDays.xls:Localize
     type: 1
     textLength: 3
     headerRow: 0
