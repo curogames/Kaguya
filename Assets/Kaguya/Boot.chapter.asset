@@ -53,7 +53,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .4
       - 
       - "\u4E09\u8D8A\u8061.jpg"
       isEmpty: 0
@@ -69,7 +69,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .25
       - 
       - "\u5C0F\u4F1D\u99AC\u3044\u306A\u3055.jpg"
       isEmpty: 0
@@ -85,7 +85,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .25
       - 
       - "\u963F\u4F50\u5742\u8389\u7F85.jpg"
       isEmpty: 0
@@ -101,7 +101,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - 
+      - .25
       - 
       - "\u7F8E\u539F\u96DB\u83CA.jpg"
       isEmpty: 0
@@ -109,7 +109,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Character
     type: 1
-    textLength: 206
+    textLength: 217
     headerRow: 0
   - rows:
     - rowIndex: 0
