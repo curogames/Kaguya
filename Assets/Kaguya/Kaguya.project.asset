@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f183272568e6f94382e3b59c0de76cd, type: 3}
+  m_Name: Kaguya.project
+  m_EditorClassIdentifier: 
+  excelList: []
+  chapterDataList:
+  - chapterName: Boot
+    excelList:
+    - {fileID: 102900000, guid: 18ddddab0a8ab62439d48b830d92de4b, type: 3}
+    excelDir: {fileID: 0}
+  checkWaitType: 0
+  checkWhiteSpaceEndOfCell: 1
+  checkTextCount: 1
+  scenarios: {fileID: 11400000, guid: 4c0db929279881c4ea15c2501101ab5c, type: 2}
+  autoImportType: 0
+  convertPath: 
+  convertVersion: 0
+  isAutoUpdateVersionAfterConvert: 0
+  isAutoConvertOnImport: 0
+  customInportSpriteFolders:
+  - {fileID: 102900000, guid: 85465a47de089464fb40a719340ddf6e, type: 3}
+  - {fileID: 102900000, guid: 75a3af9e0242b8e4a8e160976cfe9fd0, type: 3}
+  - {fileID: 102900000, guid: f77cb1529ae72f1449bb84fcdb57008a, type: 3}
+  - {fileID: 102900000, guid: 88641e2f05fc87c448f7989f78be2c8a, type: 3}
+  - {fileID: 102900000, guid: 5090d51b9843a024ca5a7c8b6a40ad95, type: 3}
+  customInportAudioFolders:
+  - {fileID: 102900000, guid: e12afb2e49f8f34449ad5941401c5264, type: 3}
+  - {fileID: 102900000, guid: eb84067214d133c46be88581d008b41f, type: 3}
+  - {fileID: 102900000, guid: 3b36016b272a78c4eb4ad50a1ed2bdb5, type: 3}
+  - {fileID: 102900000, guid: 76ce14bd76cdbf84bb0254c6fb9f6f85, type: 3}
+  customInportMovieFolders: []
+  quickImport: 0
+  parseFormula: 0
+  parseNumreic: 0
