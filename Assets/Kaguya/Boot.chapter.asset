@@ -107,9 +107,41 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u6F84\u4EE3\u5207\u771F"
+      - 
+      - 
+      - 
+      - -250
+      - 
+      - 
+      - .7
+      - 
+      - "\u6F84\u4EE3\u5207\u771F.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u7F8E\u539F\u53CC\u8449"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - .25
+      - 
+      - "\u7F8E\u539F\u53CC\u8449.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Character
     type: 1
-    textLength: 217
+    textLength: 250
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -149,9 +181,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u7AF9\u6797"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u7AF9\u6797.png"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Texture
     type: 1
-    textLength: 123
+    textLength: 133
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -162,9 +209,33 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - BackParticle1
+      - BackParticle1.prefab
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - ZangekiTest
+      - ZangekiTest.prefab
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - Ishitsubute
+      - Ishitsubute.prefab
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Particle
     type: 1
-    textLength: 13
+    textLength: 104
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -223,9 +294,105 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u4E2D\u592E\u524D\u65B9"
+      - Bg
+      - 0
+      - 0
+      - 220
+      - Effect_Front
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u4E2D\u592E\u5F8C\u65B9"
+      - Bg
+      - 0
+      - 0
+      - 180
+      - Effect_Back
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u5DE6\u524D\u65B9"
+      - Bg
+      - -500
+      - 0
+      - 210
+      - Effect_Front
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u5DE6\u5F8C\u65B9"
+      - Bg
+      - -500
+      - 0
+      - 170
+      - Effect_Back
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u53F3\u524D\u65B9"
+      - Bg
+      - 0
+      - 0
+      - 210
+      - Effect_Front
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u53F3\u5F8C\u65B9"
+      - Bg
+      - 0
+      - 0
+      - 170
+      - Effect_Back
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u80CC\u666F"
+      - Bg
+      - 0
+      - 0
+      - 100
+      - BG
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u30D0\u30C3\u30AF\u30A8\u30D5\u30A7\u30AF\u30C8"
+      - Bg
+      - 0
+      - 0
+      - 160
+      - Effect_Back
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Layer
     type: 1
-    textLength: 169
+    textLength: 373
     headerRow: 0
   - rows:
     - rowIndex: 0
