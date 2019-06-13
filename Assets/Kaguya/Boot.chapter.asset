@@ -50,12 +50,12 @@ MonoBehaviour:
       - 
       - 
       - 
+      - -190
       - 
       - 
+      - .57
       - 
-      - .4
-      - 
-      - "\u4E09\u8D8A\u8061.jpg"
+      - satoru/satoru_seifuku.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -66,12 +66,12 @@ MonoBehaviour:
       - 
       - 
       - 
+      - -200
       - 
       - 
+      - .35
       - 
-      - .25
-      - 
-      - "\u5C0F\u4F1D\u99AC\u3044\u306A\u3055.jpg"
+      - inasa/inasa_seifuku.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -82,12 +82,12 @@ MonoBehaviour:
       - 
       - 
       - 
+      - -210
       - 
       - 
+      - .3
       - 
-      - .25
-      - 
-      - "\u963F\u4F50\u5742\u8389\u7F85.jpg"
+      - rira/rira_seifuku.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -98,12 +98,12 @@ MonoBehaviour:
       - 
       - 
       - 
+      - -210
       - 
       - 
+      - .35
       - 
-      - .25
-      - 
-      - "\u7F8E\u539F\u96DB\u83CA.jpg"
+      - hinagiku/hinagiku_miko.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -114,12 +114,12 @@ MonoBehaviour:
       - 
       - 
       - 
-      - -250
+      - -200
       - 
       - 
       - .7
       - 
-      - "\u6F84\u4EE3\u5207\u771F.jpg"
+      - kirima/kirima_kimono.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -130,18 +130,66 @@ MonoBehaviour:
       - 
       - 
       - 
+      - -210
+      - 
+      - 
+      - .35
+      - 
+      - futaba/futaba_seifuku.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u4EBA\u5F62\u80B2\u5DF3"
       - 
       - 
       - 
-      - .25
+      - -200
       - 
-      - "\u7F8E\u539F\u53CC\u8449.jpg"
+      - 
+      - .67
+      - 
+      - suika/suika_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u6C34\u5929\u5BAE\u4E07\u685C"
+      - 
+      - 
+      - 
+      - -200
+      - 
+      - 
+      - .67
+      - 
+      - mao/mao_normal.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u6C34\u5929\u5BAE\u767D\u91D1"
+      - 
+      - 
+      - 
+      - -200
+      - 
+      - 
+      - .65
+      - 
+      - suika/kurosawa.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Character
     type: 1
-    textLength: 250
+    textLength: 457
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -169,20 +217,35 @@ MonoBehaviour:
     - rowIndex: 1
       debugIndex: 1
       strings:
+      - "\u5C4B\u4E0A"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - school01.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
       - "\u6559\u5BA4"
       - Bg
       - 
       - 
       - 
       - 
-      - 3
       - 
-      - "\u6559\u5BA4.jpg"
+      - 
+      - school05.png
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 2
-      debugIndex: 2
+    - rowIndex: 3
+      debugIndex: 3
       strings:
       - "\u7AF9\u6797"
       - Bg
@@ -196,9 +259,144 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u6821\u9580"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 3
+      - 
+      - school03.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u8077\u54E1\u5BA4"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 3
+      - 
+      - school04.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u30AB\u30EC\u30FC\u5C4B"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 3
+      - 
+      - curry01.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u9053\u8DEF"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - town01.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u516C\u5712"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 3
+      - 
+      - park01.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u7F8E\u539F\u5BB6-\u9580-"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mihara01.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u5C0F\u4F1D\u99AC\u5BB6-\u90E8\u5C4B-"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 3
+      - 
+      - kodenma01.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - black
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - black.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - alpha
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - alpha.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Texture
     type: 1
-    textLength: 133
+    textLength: 312
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -297,36 +495,36 @@ MonoBehaviour:
     - rowIndex: 4
       debugIndex: 4
       strings:
-      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u4E2D\u592E\u524D\u65B9"
-      - Bg
+      - "\u30AD\u30E3\u30E9\u30A8\u30D5\u30A7\u30AF\u30C8\u4E2D\u592E"
+      - Character
       - 0
       - 0
       - 220
-      - Effect_Front
+      - SpriteEffect
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 5
       debugIndex: 5
       strings:
-      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u4E2D\u592E\u5F8C\u65B9"
-      - Bg
-      - 0
+      - "\u30AD\u30E3\u30E9\u30A8\u30D5\u30A7\u30AF\u30C8\u5DE6"
+      - Character
+      - -500
       - 0
       - 180
-      - Effect_Back
+      - SpriteEffect
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     - rowIndex: 6
       debugIndex: 6
       strings:
-      - "\u30A8\u30D5\u30A7\u30AF\u30C8\u5DE6\u524D\u65B9"
-      - Bg
-      - -500
+      - "\u30AD\u30E3\u30E9\u30A8\u30D5\u30A7\u30AF\u30C8\u53F3"
+      - Character
+      - 500
       - 0
       - 210
-      - Effect_Front
+      - SpriteEffect
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -338,7 +536,6 @@ MonoBehaviour:
       - -500
       - 0
       - 170
-      - Effect_Back
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -350,7 +547,6 @@ MonoBehaviour:
       - 0
       - 0
       - 210
-      - Effect_Front
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -362,7 +558,6 @@ MonoBehaviour:
       - 0
       - 0
       - 170
-      - Effect_Back
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -381,18 +576,53 @@ MonoBehaviour:
     - rowIndex: 11
       debugIndex: 11
       strings:
-      - "\u30D0\u30C3\u30AF\u30A8\u30D5\u30A7\u30AF\u30C8"
+      - "\u80CC\u666F\u30A8\u30D5\u30A7\u30AF\u30C8"
       - Bg
       - 0
       - 0
-      - 160
-      - Effect_Back
+      - 100
+      - SpriteEffect
       isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u80CC\u666F\u30A8\u30D5\u30A7\u30AF\u30C82"
+      - Bg
+      - 0
+      - 0
+      - 110
+      - Effect
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - "\u5F8C\u65B9\u30A8\u30D5\u30A7\u30AF\u30C8"
+      - Bg
+      - 0
+      - 0
+      - 100
+      - Effect
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
       isCommentOut: 0
       debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Layer
     type: 1
-    textLength: 373
+    textLength: 406
     headerRow: 0
   - rows:
     - rowIndex: 0
@@ -555,9 +785,79 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u30CE\u30C3\u30AF"
+      - 
+      - Se
+      - knock01.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u6249\u958B1"
+      - 
+      - Se
+      - door01.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u6249\u958B2"
+      - 
+      - Se
+      - door02.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u6249\u95891"
+      - 
+      - Se
+      - door03.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u30C1\u30E3\u30A4\u30E0"
+      - 
+      - Se
+      - chime01.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u643A\u5E2F"
+      - 
+      - Se
+      - mobile01.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u30C6\u30FC\u30DE"
+      - 
+      - Bgm
+      - "\u307B\u306E\u307C\u306E\u795E\u793E.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/Kaguya/UsualDays.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 147
     headerRow: 0
   - rows:
     - rowIndex: 0

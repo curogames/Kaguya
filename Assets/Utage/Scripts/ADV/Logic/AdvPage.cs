@@ -561,6 +561,7 @@ namespace Utage
 				}
 
 				SendChar(timeCharSend);
+
 				if ((CurrentTextLength >= CurrentTextLengthMax))
 				{
 					EndSendChar();
@@ -703,13 +704,14 @@ namespace Utage
 			}
 
 			deltaTimeSendMessage += Time.deltaTime;
-			while (deltaTimeSendMessage >= 0)
+            while (deltaTimeSendMessage >= 0)
 			{
 				++CurrentTextLength;
 				deltaTimeSendMessage -= timeCharSend;
-				if (CurrentTextLength > CurrentTextLengthMax)
+
+                if (CurrentTextLength > CurrentTextLengthMax)
 				{
-					CurrentTextLength = CurrentTextLengthMax;
+                    CurrentTextLength = CurrentTextLengthMax;
 					break;
 				}
 				if (CurrentCharData.CustomInfo.IsInterval || CurrentCharData.CustomInfo.IsSpeed)

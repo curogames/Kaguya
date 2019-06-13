@@ -67,7 +67,7 @@ namespace Utage
 					MessageWindow.Open();
 					if (selection != null) selection.Open();
 					if (backLog != null) backLog.Close();
-					break;
+                    break;
 			}
 			this.status = newStatus;
 		}

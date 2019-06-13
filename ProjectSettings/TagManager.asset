@@ -14,11 +14,11 @@ TagManager:
   - UI
   - 
   - 
-  - Effect_Front
-  - Effect_Back
+  - Effect
+  - SpriteEffect
+  - ScreenEffect
   - BG
-  - 
-  - 
+  - Fog
   - 
   - 
   - 

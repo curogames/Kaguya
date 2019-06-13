@@ -197,7 +197,7 @@ namespace Utage
 		{
 			CharData data = new CharData(c, customInfo);
 			charList.Add(data);
-			customInfo.ClearOnNextChar();
+            customInfo.ClearOnNextChar();
 		}
 
 		//本来二文字ぶんの改行文字を追加

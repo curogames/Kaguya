@@ -136,6 +136,7 @@ namespace Utage
 					unityRitchText += " ";
 				}
 				curentCustomInfo = c.CustomInfo;
+
 			}
 			if (curentCustomInfo.IsBold) unityRitchText += endTagStack.Pop();
 			if (curentCustomInfo.IsItalic) unityRitchText += endTagStack.Pop();
